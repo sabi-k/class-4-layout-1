@@ -1,0 +1,148 @@
+*{margin: 0;}
+header{
+    height: 80px;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+}
+.neck{
+    height: 80px;
+    background-color: darkslateblue;
+}
+.main{
+    height: 400px;
+    overflow: hidden;
+}
+.main_one{
+    height: 400px;
+    width: 20%;
+   background-color: darkslateblue;
+    color: azure;
+    text-align: center;
+    float: left;
+}
+.main_two{
+    height: 400px;
+    width: 60%;
+    background-color: aquamarine;
+    float: left;
+}
+.main_three{
+    height: 400px;
+    width: 20%;
+    background-color: darkslateblue;
+    color: azure;
+    text-align: center;
+    float: left;
+}
+.main_two{
+    overflow: hidden;
+}
+.top{
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+    color: blue;
+    text-align: center;
+}
+.middle{
+    width: 100%;
+    height: 200px;
+    background-color: white
+}
+.bottom{
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+    color: blue;
+    text-align: center;
+}
+.middle_1{
+    overflow: hidden;
+}
+.left_one{
+    width: 50%;
+    height: 200px;
+    background-color: royalblue;
+    color: blue;
+    text-align: center;
+    float: left;
+}
+.right_two{
+    width: 50%;
+    height: 200px;
+    background-color: cornflowerblue;
+    color: blue;
+    text-align: center;
+    float: left;
+}
+.art{
+    height:300px ;
+    overflow: hidden;
+}
+.art_one{
+    height: 300px;
+    width: 15%;
+    background-color: aqua;
+    color: darkgreen;
+    text-align: center;
+    float: left;
+}
+.art_two{
+    height: 300px;
+    width: 70%;
+    background-color: bisque;
+    float: left;
+}
+.art_three{
+    height: 300px;
+    width: 15%;
+    background-color: aqua;
+    color: darkgreen;
+    text-align: center;
+    float: left;
+}
+ .art_two{
+    overflow: hidden;
+ } 
+ .top_1{
+    width: 800px;
+    height: 100px;
+    background-color: blueviolet;
+    color: azure;
+    text-align: center;
+ } 
+ .middle_2{
+    width: 800px;
+    height: 100px;
+    background-color: darkslateblue;
+    color: azure;
+    text-align: center;
+ }
+ .bottom_3{
+    width: 800px;
+    height: 100px;
+    background-color: blueviolet;
+    color: azure;
+    text-align: center;
+ }
+ footer{
+    height: 80px;
+    background-color: dimgray;
+    color: blue;
+    text-align: center;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
